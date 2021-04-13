@@ -20,7 +20,3 @@ if __name__ == '__main__':
         print("Webhook sent")
     else:
         print("No update")
-
-    # wh_url = "https://discordapp.com/api/webhooks/825451769315459103/94dQ9Bb70AbqRJk_H2t9tfx_lXfv263To5Anc5vUvwhUPxCJhOLiecxP1DIC6gYRHegB"
-    # url = "https://www.newbalance.ie/pd/made-in-us-992/ML992V1-29382-M.html"
-    # url = "https://www.newbalance.ie/pd/made-in-us-992/ML992V1-31315.html"
